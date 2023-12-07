@@ -34,21 +34,6 @@ To run this project, you'll need to follow these steps:
 6. **Open the App in your Browser:**
    Open your web browser and go to [http://localhost:3000](http://localhost:3000) to play the ApplesToApples game.
 
-## Frameworks Used
-
-This project utilizes the following frameworks:
-
-- **Express.js:** A Node.js web application framework for building robust web applications.
-- **Socket.io:** A library for real-time web applications, enabling bidirectional communication between web clients and servers.
-
-## Project Structure
-
-The project is organized into the following structure:
-
-- **index.html:** The main HTML file that renders the game interface.
-- **style.css:** The stylesheet containing the game's styling.
-- **app.js:** The JavaScript file containing the game logic.
-- **server.js:** The Node.js server file.
 
 ## How to Play
 
